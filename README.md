@@ -1,13 +1,13 @@
 # lanchonete
 
-## Project setup
+## Rodar projeto 
 ```
-yarn install
+npm run server
 ```
 
-### Compiles and hot-reloads for development
+### Rodar backend
 ```
-yarn serve
+npm run backend
 ```
 
 ### Compiles and minifies for production
@@ -22,3 +22,9 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Infos 
+```
+    Pasta componentes: todos os componentes do front
+    Pasta views: referente as paginas exibidas
+``` 
